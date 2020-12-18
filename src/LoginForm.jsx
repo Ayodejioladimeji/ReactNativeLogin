@@ -28,7 +28,7 @@ const LoginForm = () => {
         placeholder="Password"
         placeholderTextColor="#fff"
         returnKeyType="go"
-        sdecureTextEntry
+        secureTextEntry
         style={styles.input}
       />
 
