@@ -7,7 +7,7 @@ class App extends Component {
     return (
       <View style={styles.container}>
         <View style={styles.logoContainer}>
-          <Image style={styles.logo} source={require("./chat.png")} />
+          <Image style={styles.logo} source={require("./talk.png")} />
           <Text style={styles.title}>LetsChat App</Text>
         </View>
 
